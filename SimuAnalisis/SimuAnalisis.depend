@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1498808510 source:h:\documents\grau en física\4t\tfg\procesado\simuanalisis\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cmath>
+
