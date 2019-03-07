@@ -2,4 +2,4 @@
 
 - Memoria.pdf: memoria del trabajo de fin de grado en Física
 - Expo.pdf: transparencias de la exposición del TFG
-- SimuAnalisis: programa en C++ para los resultados obtenidos en la simulación con Penelope
+- SimuAnalisis: programa en C++ para el análisis de los resultados obtenidos en la simulación con Penelope
